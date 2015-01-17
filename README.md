@@ -10,6 +10,7 @@
 
  Sample output (sample_deduping is source directory and deduped_dirs is the destination:
 
+```
  payal@payal-ThinkPad-T520 ~/Documents $ mkdir www.aol.com_2015-04-02_10
  payal@payal-ThinkPad-T520 ~/Documents $ mkdir www.yahoo.com_2014-05-03
  payal@payal-ThinkPad-T520 ~/Documents $ mkdir www.google.com_2014-05-03
@@ -28,3 +29,4 @@
  drwxr-xr-x 3 payal payal 4096 Jan 16 21:40 www.aol.com_2015-04-02
  drwxr-xr-x 3 payal payal 4096 Jan 16 21:41 www.google.com_2014-05-03
  drwxr-xr-x 3 payal payal 4096 Jan 16 21:41 www.yahoo.com_2014-05-03
+ ```
