@@ -1,6 +1,6 @@
-# quick_n_dirty
+# Deduping subdirectories and contents
 
- the script that does the following:
+ The script does the following:
 
  1. for subdirectories starting with specific url/text, gets oldest created directory
  2. copies the list of oldest unique subdirectories to new directory "<given_dest_path>/deduped_dirs"
